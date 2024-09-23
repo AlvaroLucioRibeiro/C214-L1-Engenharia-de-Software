@@ -1,7 +1,7 @@
 # C214-L1 - Engenharia de Software
 
 **Nome:** Álvaro Lucio Almeida Ribeiro  
-**Curso:** Engenharia de Software - Turma 163
+**Curso:** Engenharia de Software - 163
 
 ## Descrição do Projeto
 
